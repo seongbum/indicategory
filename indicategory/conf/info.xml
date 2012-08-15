@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">인디스쿨 학습자료실 게시물 분류</title>
+    <description xml:lang="ko">
+        인디스쿨 학습자료실의 게시물을 분류합니다.
+    </description>
+    <version>1.0.0</version>
+    <date>2012-08-13</date>
+    <author email_address="jdkim@indischool.com" link="http://indischool.com">
+    <name xml:lang="ko">김재동</name>
+    </author>
+    <link>http://indischool.com</link>
+</addon>
